@@ -1,0 +1,15 @@
+C:\Users\Htp21\source\repos\E-TicaretDemo\Entitites\bin\Debug\net5.0\Entitites.deps.json
+C:\Users\Htp21\source\repos\E-TicaretDemo\Entitites\bin\Debug\net5.0\Entitites.dll
+C:\Users\Htp21\source\repos\E-TicaretDemo\Entitites\bin\Debug\net5.0\ref\Entitites.dll
+C:\Users\Htp21\source\repos\E-TicaretDemo\Entitites\bin\Debug\net5.0\Entitites.pdb
+C:\Users\Htp21\source\repos\E-TicaretDemo\Entitites\obj\Debug\net5.0\Entitites.csproj.AssemblyReference.cache
+C:\Users\Htp21\source\repos\E-TicaretDemo\Entitites\obj\Debug\net5.0\Entitites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Htp21\source\repos\E-TicaretDemo\Entitites\obj\Debug\net5.0\Entitites.AssemblyInfoInputs.cache
+C:\Users\Htp21\source\repos\E-TicaretDemo\Entitites\obj\Debug\net5.0\Entitites.AssemblyInfo.cs
+C:\Users\Htp21\source\repos\E-TicaretDemo\Entitites\obj\Debug\net5.0\Entitites.csproj.CoreCompileInputs.cache
+C:\Users\Htp21\source\repos\E-TicaretDemo\Entitites\obj\Debug\net5.0\Entitites.dll
+C:\Users\Htp21\source\repos\E-TicaretDemo\Entitites\obj\Debug\net5.0\ref\Entitites.dll
+C:\Users\Htp21\source\repos\E-TicaretDemo\Entitites\obj\Debug\net5.0\Entitites.pdb
+C:\Users\Htp21\source\repos\E-TicaretDemo\Entitites\bin\Debug\net5.0\Core.dll
+C:\Users\Htp21\source\repos\E-TicaretDemo\Entitites\bin\Debug\net5.0\Core.pdb
+C:\Users\Htp21\source\repos\E-TicaretDemo\Entitites\obj\Debug\net5.0\Entitites.csproj.CopyComplete
